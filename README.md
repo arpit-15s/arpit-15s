@@ -7,13 +7,11 @@
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
 
 
-- 🔭 I’m currently working on [Excel-Clone](https://github.com/arpit-15s/ExcelClone)
+- 🔭 I’m currently working on [Twitch Clone]
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Redux and Typescript**
 
-- 👯 I’m looking to collaborate on **Virtual White Board**
-
-- 💬 Ask me about **C++, Operating System**
+- 💬 Ask me about **C++, Operating System, Javascript, Data Structures and Algorithm**
 
 - 📫 How to reach me **arpitsrivastav15s@gmail.com**
 
