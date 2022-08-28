@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Srivastav</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">Software Developer | Student | Teacher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit-15s&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-15s" /> </p>
 
@@ -7,9 +7,9 @@
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
 
 
-- 🔭 I’m currently working on [Twitch Clone]
+- 🔭 I’m currently with <a href="https://www.mobileum.com/">Mobileum</a>
 
-- 🌱 I’m currently learning **Redux and Typescript**
+- 🌱 I’m currently learning **Java and Kubernetes**
 
 - 💬 Ask me about **C++, Operating System, Javascript, Data Structures and Algorithm**
 
