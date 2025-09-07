@@ -7,11 +7,11 @@
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif">
 
 
-- 🔭 I’m currently working with <a href="https://www.mobileum.com/">Mobileum</a>
+- 🔭 I’m currently working with <a href="https://www.mobileum.com/">Oracle</a>
 
-- 🌱 I’m currently learning **Java and Kubernetes**
+- 🌱 I’m currently learning **Java and Spring boot and AWS**
 
-- 💬 Ask me about **C++, Operating System, Javascript, Data Structures and Algorithm**
+- 💬 Ask me about **Java, Spring boot, linux, PRoblem solving, Data Structures and Algorithm, and System design**
 
 - 📫 How to reach me **arpitsrivastav15s@gmail.com**
 
