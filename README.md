@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit Srivastav</h1>
-<h3 align="center">Software Developer | Student | Teacher</h3>
+<h3 align="center">Software Engineer 2 | Student | Teacher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit-15s&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-15s" /> </p>
 
